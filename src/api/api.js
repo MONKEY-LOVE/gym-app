@@ -1,3 +1,1 @@
-let api = "test"
-
-console.log(api)
+import axios from "axios";
